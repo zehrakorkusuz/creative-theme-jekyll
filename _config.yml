@@ -1,12 +1,12 @@
 # Site settings
-title:
+title: Knowledge Graph Engineering Project
 email:
-description: > # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+description: 
+baseurl: "" # the subpath of your site, e.g. /knowledgegraph/
+url: "zehrakorkusuz.github.io" 
 
 twitter_username:
-github_username:
+github_username: zehrakorkusuz
 
 # Build settings
 markdown: kramdown
